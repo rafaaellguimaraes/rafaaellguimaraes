@@ -5,7 +5,7 @@
 
 - 🔭 I am currently an intern in the technology and innovation sector working as a MiniDev Front-End
 - 🌱 I am currently learning HTML, CSS, JavaScript, React-Native
-- 📫 How to contact me: Through my website <a href="rafaelguimaraes.netlify.app" target="_blank">rafael.guimaraes.dev</a> or via email rafaell_guimaraes@outlook.com
+- 📫 How to contact me: Through my website <a href="rafaelguimaraes.netlify.app" target="_blank">rafaelguimaraes.netlify.app</a> or via email rafaell_guimaraes@outlook.com
 
 <div>
 <a href="https://github.com/rafaaellguimaraes">
