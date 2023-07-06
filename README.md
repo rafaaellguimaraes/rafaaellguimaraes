@@ -4,7 +4,7 @@
 ## My name is Rafael Guimarães and my nickname is Rafa!
 
 - 🔭 I am currently an intern in Front-End Developer at Valenet
-- 🌱 I am currently learning HTML, CSS, JavaScript, React-Native
+- 🌱 I am currently learning HTML, CSS, JavaScript, TypeScript, React-Native, ReactJs, NextJs, Express, PostgreSQL
 - 📫 How to contact me: Through my website <a href="rafaelguimaraes.netlify.app" target="_blank">rafaelguimaraes.netlify.app</a> or via email rafaell_guimaraes@outlook.com
 
 <div>
