@@ -3,7 +3,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Rafael Guimarães and my nickname is Rafa!
 
-- 🔭 I am currently an Full Stack Developer at Axioma Software
+- 🔭 I am currently an Back End Developer at Cube Apps Tecnologia
 - 🌱 Core technologies JavaScript, TypeScript, React-Native, ReactJs, NextJs, NodeJs, Express, PostgreSQL, MySql, HTML, CSS.
 - 📫 How to contact me: Through my website <a href="rafaelguimaraes.netlify.app" target="_blank">rafaelguimaraes.netlify.app</a> or via email rafaell_guimaraes@outlook.com
 
